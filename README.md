@@ -1,4 +1,4 @@
-# LiterAlura 📚
+# <span style="color:blue;">LiterAlura 📖</span>
 
 LiterAlura es una aplicación de consola desarrollada en **Java** y **Spring Boot** que funciona como un catálogo de libros interactivo. Permite a los usuarios buscar libros utilizando la API pública de **Gutendex**, guardar la información en una base de datos **PostgreSQL** y realizar diversas consultas sobre los libros y autores almacenados.
 
@@ -6,7 +6,7 @@ Este proyecto pone en práctica conceptos de desarrollo backend, consumo de APIs
 
 ---
 
-## ✨ Funcionalidades Principales
+## <span style="color:blue;">📝 Funcionalidades Principales</span>
 
 La aplicación ofrece un menú interactivo en la consola con las siguientes opciones:
 
@@ -18,7 +18,7 @@ La aplicación ofrece un menú interactivo en la consola con las siguientes opci
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
+## <span style="color:blue;">⚙️ Tecnologías Utilizadas</span>
 
 * **Lenguaje**: Java 21
 * **Framework**: Spring Boot 3.5.3
@@ -30,7 +30,7 @@ La aplicación ofrece un menú interactivo en la consola con las siguientes opci
 
 ---
 
-## 📋 Prerrequisitos
+## <span style="color:blue;">✅ Prerrequisitos</span>
 
 Antes de ejecutar el proyecto, asegúrate de tener instalado:
 
@@ -40,7 +40,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 
 ---
 
-## 🌐 API Externa
+## <span style="color:blue;">🔗 API Externa</span>
 
 Este proyecto consume datos de [Gutendex](https://gutendex.com/), una API web para libros de dominio público del Proyecto Gutenberg. Toda la información de los libros y autores se obtiene de este servicio.
 
